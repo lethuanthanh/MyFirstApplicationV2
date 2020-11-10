@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Điều tra khách quốc tế</string>
+    <string name="button_log">Log in</string>
+    <string name="sign_up">Sign Up for Facebook</string>
+    <string name="log_in">Log in</string>
+    <string name="input_password">Input Password</string>
+    <string name="input_username">Input Username</string>
+
+</resources>
